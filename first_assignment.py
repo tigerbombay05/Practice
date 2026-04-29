@@ -132,7 +132,7 @@ elif(decision1 == "2"):
         elif(decision3 == "2"):
             print("SELFLESS KNIGHT: Rava doesn't need much to be happy and " \
             "thusly offers his salary to those most affected by the attack. " \
-            "The marchants thank him with their lives, and Rava quickly sees how crafty " \
+            "The merchants thank him with their lives, and Rava quickly sees how crafty " \
             "the mercantile quarter of Alostria can be, as not only does he get their " \
             "lives back in order, but he also gets some return on his investment! " \
             "Rava humbly thanks them and spends his tidy profit on some nice juicy Veruzian apples " \
@@ -152,7 +152,7 @@ elif(decision1 == "2"):
 
         print("Rava returns to the castle after a hard day's work. " \
         "He is eager to meet Princess Rosalind. Rava wonders if she's going to " \
-        "wear that perfume he secretly likes, but when he enters the royal court, " \
+        "wear that perfume he secretly likes, but when he enters the royal court," \
         "the dour faces of royals and officials betray Rava's calmness. " \
         "An uneasy anxiety stirs in the halls until King Romir emerges from a " \
         "council meeting and announces that Princess Rosalind , sole heir " \
