@@ -159,7 +159,8 @@ elif(decision1 == "2"):
         "to the throne, has gone missing! Rava can't believe it... he won't settle " \
         "for this. If it be his final breath, Rava will find the princess and " \
         "secure this kingdom's future...")
-    
+        
+        input()
 
 
 
